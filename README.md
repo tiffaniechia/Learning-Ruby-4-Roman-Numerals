@@ -9,6 +9,8 @@ The program works up to 8000.
 
 This task was created by [Evgeny Shadchnev](https://github.com/shadchnvev).
 
-##Stack:
+(Week 2)
+
+##Technologies Used
 - Ruby
 - TDD with RSpec
